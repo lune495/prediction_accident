@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+import sklearn
 
 st.title(" Modèle de prédiction des types d'accidents routiers")
 
